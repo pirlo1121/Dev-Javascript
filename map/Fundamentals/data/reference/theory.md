@@ -65,10 +65,10 @@ Una función en JavaScript es un bloque de código reusable que realiza una tare
 
 
 # Date
-    El tipo de dato Date en JavaScript se utiliza para trabajar con fechas y horas. 📅 Podemos crear, manipular y dar formato a momentos específicos en el tiempo.
+El tipo de dato Date en JavaScript se utiliza para trabajar con fechas y horas. 📅 Podemos crear, manipular y dar formato a momentos específicos en el tiempo.
 
-    ```javascript
-        let today = new Date();
-        console.log(today) // 2025-08-11T05:41:00.555Z
-        // new Date() me dará la fecha actual; año, mes dia, hora, minuto y segundo
-    ```
+```javascript
+    let today = new Date();
+    console.log(today) // 2025-08-11T05:41:00.555Z
+    // new Date() me dará la fecha actual; año, mes dia, hora, minuto y segundo
+```
