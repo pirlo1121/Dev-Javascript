@@ -3,14 +3,14 @@
 
 # string:
 
-    Es una secuencia de caracteres (texto).
-    Se declara Con comillas simples '...', dobles "...", o template literals `...`.
+Es una secuencia de caracteres (texto).
+Se declara Con comillas simples '...', dobles "...", o template literals.
 
-    ```javascript
-        let nombre = "Newton";
-        let saludo = 'Hola, ' + nombre ; // interpolación
-        console.log(saludo); // Hola, Newton
-    ```
+```javascript
+    let nombre = "Newton";
+    let saludo = 'Hola, ' + nombre ; // interpolación
+    console.log(saludo); // Hola, Newton
+```
 
 ---------------------------------------------------------------------------
 
