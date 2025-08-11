@@ -4,7 +4,7 @@
 # string:
 
 Es una secuencia de caracteres (texto).
-Se declara Con comillas simples '...', dobles "...", o template literals.
+Se declara Con comillas dobles o simples
 
 ```javascript
     let nombre = "Newton";
@@ -16,47 +16,46 @@ Se declara Con comillas simples '...', dobles "...", o template literals.
 
 # number:
 
-    Numeros Enteros y decimales, positivos y negativos, todos bajo el mismo tipo.
-    ejemplo:
+Numeros Enteros y decimales, positivos y negativos, todos bajo el mismo tipo.
+ejemplo:
 
-    ```javascript
-        let numero1 = 30;
-        let numero2 = 40;
-        let suma = numer1 + numero2;
-        console.log(numero1 + numero2) // 70
-
-    ```
+```javascript
+    let numero1 = 30;
+    let numero2 = 40;
+    let suma = numer1 + numero2;
+    console.log(numero1 + numero2) // 70
+```
 
 ---------------------------------------------------------------------------
 
 
 # boolean:
-    Son solo dos valores posibles: true o false.
+Son solo dos valores posibles: true o false.
 
-    ```javascript
-        let activo = true;
-        let registrado = false;
-    ```
+```javascript
+    let activo = true;
+    let registrado = false;
+```
 
 ---------------------------------------------------------------------------
 
 # undefined:
-    Una variable declarada pero sin valor asignado.
+Una variable declarada pero sin valor asignado.
 
-    ```javascript
+```javascript
     let data; // no le asignamos ningun valor
     console.log(data) // undefined ( no la definimos )
-    ```
+```
 
 ---------------------------------------------------------------------------
 
 
 # null:
-    Representa la ausencia intencional de valor. 
+Representa la ausencia intencional de valor. 
 
-    ```javascript
+```javascript
     let dato = null; // null es enfatizar en que la variable esta vacia, es un dato null
-    ```
+```
 ---------------------------------------------------------------------------
 
 
