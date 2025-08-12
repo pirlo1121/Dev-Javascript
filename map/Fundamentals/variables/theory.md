@@ -33,7 +33,7 @@ hay 3 maneras de crear una variable:
     color = "verde" // le reasignamos su valor 
     console.log(color) // verde
 
-    // eso no lo podemos hacer con const, ya que es una constante y no valor no puede ser reasginado
+    // eso no lo podemos hacer con const, ya que es una constante y su valor no puede ser reasignado
 
     // usamos el  = para asignarle un valor a la variable
     let mensaje = "hola a todos, tengo hambre";

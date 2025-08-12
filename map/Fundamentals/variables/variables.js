@@ -1,6 +1,6 @@
 // var ( ya no se usa )
-    var altura = 1.80;
-    var peso = 80;
+var altura = 1.80;
+var peso = 80;
 
 
 // let 
