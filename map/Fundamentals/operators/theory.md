@@ -141,6 +141,7 @@ Estos operadores se utilizan para combinar expresiones lógicas y devuelven un v
 ```
 El operador ( ! ) invierte el valor, ejemplo
 si una *variable* es true, y nosotros la usamos con ( ! ), entonces será false
+
 *otro ejemplo:*
 
 ```javascript
