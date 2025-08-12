@@ -42,14 +42,14 @@ por ejemplo, quiero comparar una variable x con una variable y.
 al usar estos operadores siempre tendremos una respuesta booleana, es decir ( true o false )
 
 *OPERADORES DE COMPARACION*
-- == ( igual )
-- === ( estrictamente igual )
-- != ( distinto )
-- !== ( estrictamente distinto )
-- > mayor 
-- < menor
-- >= mayor o igual
-- <= menor o igual
+- (==)  igual 
+- (===) estrictamente igual 
+- (!=)  distinto 
+- (!==) estrictamente distinto 
+- (>)   mayor 
+- (<)   menor
+- (>=)  mayor o igual
+- (<=)  menor o igual
 
 *EJEMPLOS:*
 
@@ -83,7 +83,7 @@ la respuesta es false, ya que ambas son iguales, por ende en la variable *claveC
 ```javascript
     let dato = 35;
 ```
-*a la variable #dato le asignamos el valor #35;
+*a la variable *dato* le asignamos el valor *35*;
 
 - 2 iguales ( == ), es para hacer una comparacion simple.
 ```javascript
@@ -91,7 +91,7 @@ la respuesta es false, ya que ambas son iguales, por ende en la variable *claveC
     let dato2 = 33;   // dato number
     console.log( dato1 == dato2 ) // respuesta True
 ```  
-JavaScript detecta que dato1 y dato2 tienen tipos diferentes (string vs number).
+JavaScript detecta que *dato1* y *dato2* tienen tipos diferentes (string vs number).
 
 Antes de comparar, convierte (dato1) "33" a un número (33).
 
